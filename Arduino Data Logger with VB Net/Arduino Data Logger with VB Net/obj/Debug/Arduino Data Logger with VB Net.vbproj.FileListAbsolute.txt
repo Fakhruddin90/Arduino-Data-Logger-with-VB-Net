@@ -1,0 +1,17 @@
+E:\Local Disk E\Programming\Repositories\Visual Basic\Arduino Data Logger with VB Net\Arduino Data Logger with VB Net\Arduino Data Logger with VB Net\bin\Debug\Arduino Data Logger with VB Net.exe.config
+E:\Local Disk E\Programming\Repositories\Visual Basic\Arduino Data Logger with VB Net\Arduino Data Logger with VB Net\Arduino Data Logger with VB Net\bin\Debug\Arduino Data Logger with VB Net.exe
+E:\Local Disk E\Programming\Repositories\Visual Basic\Arduino Data Logger with VB Net\Arduino Data Logger with VB Net\Arduino Data Logger with VB Net\bin\Debug\Arduino Data Logger with VB Net.pdb
+E:\Local Disk E\Programming\Repositories\Visual Basic\Arduino Data Logger with VB Net\Arduino Data Logger with VB Net\Arduino Data Logger with VB Net\bin\Debug\Arduino Data Logger with VB Net.xml
+E:\Local Disk E\Programming\Repositories\Visual Basic\Arduino Data Logger with VB Net\Arduino Data Logger with VB Net\Arduino Data Logger with VB Net\obj\Debug\Arduino Data Logger with VB Net.vbprojAssemblyReference.cache
+E:\Local Disk E\Programming\Repositories\Visual Basic\Arduino Data Logger with VB Net\Arduino Data Logger with VB Net\Arduino Data Logger with VB Net\obj\Debug\Arduino_Data_Logger_with_VB_Net.Form1.resources
+E:\Local Disk E\Programming\Repositories\Visual Basic\Arduino Data Logger with VB Net\Arduino Data Logger with VB Net\Arduino Data Logger with VB Net\obj\Debug\Arduino_Data_Logger_with_VB_Net.Resources.resources
+E:\Local Disk E\Programming\Repositories\Visual Basic\Arduino Data Logger with VB Net\Arduino Data Logger with VB Net\Arduino Data Logger with VB Net\obj\Debug\Arduino Data Logger with VB Net.vbproj.GenerateResource.cache
+E:\Local Disk E\Programming\Repositories\Visual Basic\Arduino Data Logger with VB Net\Arduino Data Logger with VB Net\Arduino Data Logger with VB Net\obj\Debug\Arduino Data Logger with VB Net.vbproj.CoreCompileInputs.cache
+E:\Local Disk E\Programming\Repositories\Visual Basic\Arduino Data Logger with VB Net\Arduino Data Logger with VB Net\Arduino Data Logger with VB Net\obj\Debug\Arduino Data Logger with VB Net.exe
+E:\Local Disk E\Programming\Repositories\Visual Basic\Arduino Data Logger with VB Net\Arduino Data Logger with VB Net\Arduino Data Logger with VB Net\obj\Debug\Arduino Data Logger with VB Net.xml
+E:\Local Disk E\Programming\Repositories\Visual Basic\Arduino Data Logger with VB Net\Arduino Data Logger with VB Net\Arduino Data Logger with VB Net\obj\Debug\Arduino Data Logger with VB Net.pdb
+E:\Local Disk E\Programming\Repositories\Visual Basic\Arduino Data Logger with VB Net\Arduino Data Logger with VB Net\Arduino Data Logger with VB Net\obj\Debug\Arduino Data Logger with VB Net.vbproj.ResolveComReference.cache
+E:\Local Disk E\Programming\Repositories\Visual Basic\Arduino Data Logger with VB Net\Arduino Data Logger with VB Net\Arduino Data Logger with VB Net\bin\Debug\Arduino Data Logger with VB Net.exe.manifest
+E:\Local Disk E\Programming\Repositories\Visual Basic\Arduino Data Logger with VB Net\Arduino Data Logger with VB Net\Arduino Data Logger with VB Net\bin\Debug\Arduino Data Logger with VB Net.application
+E:\Local Disk E\Programming\Repositories\Visual Basic\Arduino Data Logger with VB Net\Arduino Data Logger with VB Net\Arduino Data Logger with VB Net\obj\Debug\Arduino Data Logger with VB Net.exe.manifest
+E:\Local Disk E\Programming\Repositories\Visual Basic\Arduino Data Logger with VB Net\Arduino Data Logger with VB Net\Arduino Data Logger with VB Net\obj\Debug\Arduino Data Logger with VB Net.application
